@@ -1,6 +1,6 @@
 # Research Artefacts
 
-This repository contains the source code and experimental data for the paper submitted to the ACM SAC 2027 conference.
+This repository contains the source code and experimental data for the paper submitted to the AINA 2027 conference.
 
 ## Source code and configurations
 
